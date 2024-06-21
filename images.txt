@@ -1,1 +1,1 @@
-xprobe/xinference:nightly-main-cpu
+xinference:nightly-main-cpu
