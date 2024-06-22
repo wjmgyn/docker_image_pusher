@@ -22,4 +22,4 @@ clickhouse/clickhouse-server:23.4.1
 prom/alertmanager:v0.25.0
 prom/prometheus:v2.37.7
 clickvisual/clickvisual:master
-xprobe/xinference:nightly-main-cpu
+
